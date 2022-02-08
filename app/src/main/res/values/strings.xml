@@ -8,4 +8,5 @@
     <string name="round_of_tip">Round of tip</string>
     <string name="tip_amount">Tip Amount: %s</string>
     <string name="cost_of_service">Cost of Service</string>
+    <string name="label">Label</string>
 </resources>
